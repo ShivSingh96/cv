@@ -18,6 +18,12 @@ h3
 {
   color: #5089C6;
 }
+.para{
+	font-family: 'verdana', sans-serif;
+}
+.list{
+	font-family: 'Merriweather', serif;
+}
 
 /******************************CLASS SELECTORS****************************************
 .heading{
@@ -27,4 +33,3 @@ h3
 #heading{
   color: #0F52BA
 }
-
